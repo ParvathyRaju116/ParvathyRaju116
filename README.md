@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parvathy Raju</h1>
-<h3 align="center">MERN full stack developer with a passion for creating dynamic and responsive user interfaces. Completed a comprehensive MEAN Full Stack Developer internship, showcasing proficiency in MongoDB, Express.js, and Node.js to deliver end-to-end web solutions</h3>
+<h3 align="center">MERN full stack developer with a passion for creating dynamic and responsive user interfaces. Completed a comprehensive MEAN Full Stack Developer internship, showcasing proficiency in React, MongoDB, Express.js, and Node.js to deliver end-to-end web solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f3b04bcc5a6c38cefe94f011a982263fc8718412568f756362f903776c66d008/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvathyraju116&label=Profile%20views&color=0e75b6&style=flat" alt="parvathyraju116" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvathyraju116" alt="parvathyraju116" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parvathy_raju2" target="blank"><img src="https://img.shields.io/twitter/follow/parvathy_raju2?logo=twitter&style=for-the-badge" alt="parvathy_raju2" /></a> </p>
 
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvathyraju116&show_icons=true&locale=en&layout=compact" alt="parvathyraju116" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvathyraju116&show_icons=true&locale=en" alt="parvathyraju116" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvathyraju116&" alt="parvathyraju116" /></p>
